@@ -19,7 +19,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "highlight.js": "^9.17.1",
     "live-server": "^1.2.1",
     "markdown-it": "^10.0.0",
